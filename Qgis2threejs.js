@@ -13,7 +13,7 @@ Q3D.Options = {
       altitude: 45    // altitude angle
     }
   },
-  side: {color: 0xc7ac92, bottomZ: -1.5},
+  side: {color: 0x93ABC0, bottomZ: -1.5},
   frame: {color: 0, bottomZ: -1.5},
   label: {visible: true, connectorColor: 0xc0c0d0, autoSize: false, minFontSize: 10},
   qmarker: {r: 0.25, c: 0xffff00, o: 0.8},
